@@ -297,7 +297,7 @@ a{
 }
 
 .playback-bar span{
-    font-size: small;
+    font-size: 0.75rem;
 }
 
 .progress-bar{
