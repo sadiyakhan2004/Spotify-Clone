@@ -296,6 +296,10 @@ a{
     
 }
 
+.playback-bar span{
+    font-size: small;
+}
+
 .progress-bar{
     width: 70%;
     appearance: none;
